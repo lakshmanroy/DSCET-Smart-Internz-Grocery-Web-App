@@ -19,6 +19,7 @@ The **Technical Architecture** of the Grocery Webapp is designed to support effi
 ## ✅ Pre-Requisites
 Ensure you have the following installed on your system:
 
+
 - **Node.js** - Required for backend server
 - **MongoDB** - Database for storing product and user data
 - **Git** - Version control system
